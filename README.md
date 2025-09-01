@@ -33,7 +33,6 @@ A modern, responsive AI interface built with React.js, TypeScript, and Tailwind 
 
 The interface follows a clean, modern aesthetic inspired by productivity tools like Linear and Notion. The design emphasizes clarity, functionality, and visual hierarchy.
 
-**Figma Mockup**: [Link to Figma file - create your mockup here]
 
 ### Tailwind Mapping
 
